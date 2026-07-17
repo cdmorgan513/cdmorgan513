@@ -10,7 +10,7 @@ The repos here are that work — root-caused problems, real fixes, and what I'd 
 **What's here**
 
 - **[homelab-portfolio](https://github.com/cdmorgan513/homelab-portfolio)** — a self-built Proxmox lab, real diagnostics (thermal issues, driver conflicts, a data-loss incident and its actual root cause), and the mobile/self-hosting tooling I've built around it
-- **aios** *(in progress)* — an autonomous agent system running my daily workflow: scheduled tasks with race-condition handling, drift detection between live and version-controlled state, and a real with-skill-vs-baseline eval harness instead of just trusting that automation works
+- **[aios](https://github.com/cdmorgan513/aios)** — an autonomous agent system running my daily workflow: scheduled tasks with race-condition handling, drift detection between live and version-controlled state, and a real with-skill-vs-baseline eval harness instead of just trusting that automation works
 - More in progress — I ship these as I build them, not all at once
 
 ---
